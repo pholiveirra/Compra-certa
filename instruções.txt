@@ -1,5 +1,5 @@
 Projeto da faculdade senac-DF 
-Integrantes:Paulo Henrique, Vinicius Oliveira, Ana karen, Alex, Elielson, Mateus.
+Grupo:Paulo Henrique, Vinicius Oliveira, Ana karen, Alex, Elielson, Mateus.
 
 Com node, vs code instalado.
 

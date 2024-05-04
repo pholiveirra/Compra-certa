@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "shop",
+    "slug": "shop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/loading.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#64CFCA"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.viny9.shop"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "671b704a-e133-466b-b15d-3ca0ae4cb97d"
+      }
+    }
+  }
+}
